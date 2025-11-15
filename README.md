@@ -17,6 +17,9 @@ SOFTWARE REQUIRED:
 <img width="1399" height="951" alt="Screenshot 2025-11-15 222138" src="https://github.com/user-attachments/assets/542045ff-fd4e-4883-bca1-3c25b2f18a4f" />
 
 ## GRAPH: Inverting amplifier:
+<img width="1899" height="846" alt="Screenshot 2025-11-15 222509" src="https://github.com/user-attachments/assets/5c8b393d-790b-4ca6-a337-b5a00a3716be" />
+
+
 
 ## CIRCUIT DIAGRAM: Non inverting amplifier:
 <img width="1034" height="836" alt="Screenshot 2025-11-15 222402" src="https://github.com/user-attachments/assets/543a8685-85e4-4c79-baf0-b41f29007d46" />
